@@ -17,8 +17,8 @@ body{
 
 .main{
   background-color: #252d4a;
-  width: 450px;
-  min-height: 200px;
+  width: 30rem;
+  min-height: 12rem;
   border-radius: 15px;
   display: flex;
   justify-content: space-evenly;
