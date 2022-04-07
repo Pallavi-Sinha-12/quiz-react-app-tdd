@@ -1,21 +1,21 @@
 const Questions = [
     {
-        questionLabel : "Which food I like the most given below?",
+        questionLabel : "Which of the following is used in pencils?",
         answerOptions : [
             {
-                answerLabel : "Paneer Tikka Kathi Roll",
+                answerLabel : "Silicon",
                 isCorrect : false
             },
             {
-                answerLabel : "Paav Bhaaji",
+                answerLabel : "Graphite",
                 isCorrect : true
             },
             {
-                answerLabel : "Manchurian",
+                answerLabel : "Charcoal",
                 isCorrect : false
             },
             {
-                answerLabel : "Litti Chokha",
+                answerLabel : "Phosphorous",
                 isCorrect : false
             },
 
@@ -23,22 +23,22 @@ const Questions = [
     },
 
     {
-        questionLabel : "Which ice-cream flavour I like the most?",
+        questionLabel : "Which of the gas is not known as green house gas?",
         answerOptions : [
             {
-                answerLabel : "Vanilla",
+                answerLabel : "Methane",
                 isCorrect : false
             },
             {
-                answerLabel : "Black Current",
+                answerLabel : "Carbon dioxide",
                 isCorrect : false
             },
             {
-                answerLabel : "Butter-scotch",
+                answerLabel : "Hydrogen",
                 isCorrect : true
             },
             {
-                answerLabel : "Chocolate",
+                answerLabel : "Nitrous oxide",
                 isCorrect : false
             },
 
@@ -46,22 +46,22 @@ const Questions = [
     },
 
     {
-        questionLabel : "Which drink I like the most?",
+        questionLabel : "Which gas is usually filled in the electric bulb?",
         answerOptions : [
             {
-                answerLabel : "Maza / Slice",
+                answerLabel : "Nitrogen",
                 isCorrect : true
             },
             {
-                answerLabel : "Sprite",
+                answerLabel : "Hydrogen",
                 isCorrect : false
             },
             {
-                answerLabel : "Cocacola / Pepsi",
+                answerLabel : "Carbon dioxide",
                 isCorrect : false
             },
             {
-                answerLabel : "Fanta / Mirinda",
+                answerLabel : "Oxygen",
                 isCorrect : false
             },
 
@@ -69,22 +69,22 @@ const Questions = [
     },
 
     {
-        questionLabel : "Which sweet I like the most?",
+        questionLabel : "What is the hardest substance available on earth?",
         answerOptions : [
             {
-                answerLabel : "Rasgulla",
+                answerLabel : "Gold",
                 isCorrect : false
             },
             {
-                answerLabel : "Gulab Jamun",
+                answerLabel : "Iron",
                 isCorrect : false
             },
             {
-                answerLabel : "Rasmalai",
+                answerLabel : "Diamond",
                 isCorrect : true
             },
             {
-                answerLabel : "Som Paapdi",
+                answerLabel : "Platinum",
                 isCorrect : false
             },
 
